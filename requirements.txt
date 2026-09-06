@@ -1,0 +1,17 @@
+pandas
+numpy
+xgboost
+lightgbm
+scikit-learn
+scipy
+statsmodels
+geopy
+haversine
+optuna
+matplotlib
+seaborn
+plotly
+mlflow
+pykrige
+torch
+fancyimpute

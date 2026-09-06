@@ -1,0 +1,10 @@
+{
+  "train_cutoff": "2016-01-31T23:59:59",
+  "train_start": "2013-03-01T00:00:00",
+  "train_end": "2016-01-31T23:00:00",
+  "test_start": "2016-02-01T00:00:00",
+  "test_end": "2017-02-28T23:00:00",
+  "train_rows": 307296,
+  "test_rows": 113472,
+  "temporal_overlap": false
+}
