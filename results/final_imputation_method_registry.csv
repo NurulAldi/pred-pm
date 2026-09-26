@@ -1,0 +1,7 @@
+method,family,source_method
+temporal,temporal,temporal_linear
+spatial,spatial,spatial_ordinary_kriging
+spatiotemporal,spatiotemporal,spatiotemporal_mice
+hybrid_linear_seasonal,external_benchmark,hybrid_linear_seasonal
+positive_matrix_factorization,external_benchmark,positive_matrix_factorization
+saits,external_benchmark,saits
