@@ -1,0 +1,4 @@
+family,method,median_rank,mean_rank,median_rmse,mean_runtime_sec
+external_benchmark,hybrid_linear_seasonal,1.0,1.0,17.756433981172364,7.100538159999997
+external_benchmark,positive_matrix_factorization,2.0,2.2,30.692489929407593,6.74728819999873
+external_benchmark,saits,3.0,2.8,33.642207553975396,6.677041260001715

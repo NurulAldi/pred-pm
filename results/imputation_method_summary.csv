@@ -1,0 +1,13 @@
+family,method,median_rank,mean_rank,median_rmse,mean_runtime_sec
+external_benchmark,hybrid_linear_seasonal,1.0,1.0,17.756433981172364,7.100538159999997
+external_benchmark,positive_matrix_factorization,2.0,2.2,30.692489929407593,6.74728819999873
+external_benchmark,saits,3.0,2.8,33.642207553975396,6.677041260001715
+spatial,spatial_ordinary_kriging,1.0,1.2,26.626504805379447,433.32183757999735
+spatial,spatial_idw,2.0,1.8,26.79926696259579,8.972702309997112
+spatial,spatial_knn,3.0,3.0,27.836697142233596,6.645171269999992
+spatiotemporal,spatiotemporal_mice,1.0,1.0,21.941050979960252,4.967667470000743
+spatiotemporal,spatiotemporal_knn,2.0,2.0,25.38316599582629,1.0835202599992044
+spatiotemporal,spatiotemporal_lowrank,3.0,3.0,36.346578512143324,2.706848629999149
+temporal,temporal_linear,1.0,1.0,17.370813493760878,0.4229951799992705
+temporal,temporal_cubic_spline,2.0,2.0,19.13991856825797,0.63481543000089
+temporal,temporal_seasonal_naive,3.0,3.0,79.87350421954338,0.43907694999943486
