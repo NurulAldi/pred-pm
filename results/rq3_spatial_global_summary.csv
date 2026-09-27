@@ -1,0 +1,4 @@
+comparison,n_conditions,n_spatial_lower_rmse,proportion_spatial_lower_rmse,mean_of_condition_differences,all_conditions_spatial_lower_rmse,n_global_holm_significant
+spatial_vs_spatiotemporal,20,20,1.0,-0.27134440520235714,True,0
+spatial_vs_temporal,20,0,0.0,0.6405849756618522,False,0
+spatial_vs_both_comparators,40,20,0.5,0.1846202852297476,False,0
